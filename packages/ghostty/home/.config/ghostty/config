@@ -1,0 +1,6 @@
+# ghostty
+
+shell-integration-features = ssh-terminfo,ssh-env
+
+# Use audible system bell instead of visual bell icon in tabs
+bell-features = system
