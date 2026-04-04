@@ -16,6 +16,4 @@ install_macos() {
   fi
 }
 
-post_install() {
-  install_completion "podman completion zsh"
-}
+
