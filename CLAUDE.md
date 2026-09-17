@@ -47,3 +47,4 @@ Keep CLAUDE.md as the living source of truth. When discoveries are made during a
 2. **Git** — commit changes so context is preserved across machines
 
 This ensures any new Claude Code session can pick up full context from a cold start without relying on conversation history.
+@.claude/org-doctrine.md
